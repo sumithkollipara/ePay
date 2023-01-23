@@ -1,0 +1,12 @@
+C:\Projects\ePay\CustomerManagement.Common\bin\Debug\net6.0\CustomerManagement.Common.deps.json
+C:\Projects\ePay\CustomerManagement.Common\bin\Debug\net6.0\CustomerManagement.Common.dll
+C:\Projects\ePay\CustomerManagement.Common\bin\Debug\net6.0\CustomerManagement.Common.pdb
+C:\Projects\ePay\CustomerManagement.Common\obj\Debug\net6.0\CustomerManagement.Common.csproj.AssemblyReference.cache
+C:\Projects\ePay\CustomerManagement.Common\obj\Debug\net6.0\CustomerManagement.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ePay\CustomerManagement.Common\obj\Debug\net6.0\CustomerManagement.Common.AssemblyInfoInputs.cache
+C:\Projects\ePay\CustomerManagement.Common\obj\Debug\net6.0\CustomerManagement.Common.AssemblyInfo.cs
+C:\Projects\ePay\CustomerManagement.Common\obj\Debug\net6.0\CustomerManagement.Common.csproj.CoreCompileInputs.cache
+C:\Projects\ePay\CustomerManagement.Common\obj\Debug\net6.0\CustomerManagement.Common.dll
+C:\Projects\ePay\CustomerManagement.Common\obj\Debug\net6.0\refint\CustomerManagement.Common.dll
+C:\Projects\ePay\CustomerManagement.Common\obj\Debug\net6.0\CustomerManagement.Common.pdb
+C:\Projects\ePay\CustomerManagement.Common\obj\Debug\net6.0\ref\CustomerManagement.Common.dll
