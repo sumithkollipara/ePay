@@ -15,7 +15,7 @@
 | ATM_DenominationRoutine | DenominationRoutine| Please run Program.cs, output can be seen in the console.|
 
 #### Execution procedure:
-By opening the solution please go to DenominationRoutine project and run Program.cs, output can be seen in the console.
+By opening the solution, please go to DenominationRoutine project and run Program.cs, output can be seen in the console.
 
 
 ### CustomerManagement 
